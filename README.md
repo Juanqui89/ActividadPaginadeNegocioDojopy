@@ -1,0 +1,9 @@
+Con entusiasmo, presento el proyecto "Página de Negocio Ejemplo" desarrollado durante mi participación en el bootcamp de Dojopy. Este proyecto tiene como objetivo la creación de una página de negocio utilizando HTML y CSS, enfocándose en proporcionar una solución estéticamente atractiva y funcional para la presentación de información comercial.
+
+La estructura del proyecto se basó en HTML, estableciendo la base para la maquetación y organización del contenido de la página de negocio. Se implementó un diseño cuidadoso para presentar la información de manera efectiva, utilizando secciones lógicas y una disposición intuitiva que facilite la navegación del usuario.
+
+La presentación visual y la estilización de la página se llevaron a cabo mediante CSS, incorporando un diseño moderno y completamente responsive. Se prestó especial atención a detalles como colores, tipografía y distribución, buscando crear una experiencia de usuario agradable y adaptada a diferentes dispositivos.
+
+Aunque el proyecto se centró en la interfaz de la página de negocio, se implementaron prácticas recomendadas para la presentación de información comercial, incluyendo secciones destacadas, un diseño que destaque los servicios o productos ofrecidos y elementos visuales que enriquezcan la experiencia de usuario.
+
+Este proyecto "Página de Negocio Ejemplo" demuestra la capacidad para crear interfaces visuales y funcionales mediante HTML y CSS, específicamente orientadas a la presentación de un negocio en línea. El enfoque en un diseño agradable y completamente responsive refleja el compromiso con las mejores prácticas de diseño web. En resumen, este proyecto ofrece una solución estilizada y efectiva para la creación de una página de negocio, proporcionando una experiencia visualmente atractiva y adaptada a diferentes dispositivos para los usuarios que exploran el contenido comercial del sitio.
